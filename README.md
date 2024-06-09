@@ -1,4 +1,4 @@
-# jetbrain-active
+# Jetbrain Active Code
 
 ![GitHub stars](https://img.shields.io/github/stars/duyplus/jetbrain-active) ![GitHub forks](https://img.shields.io/github/forks/duyplus/jetbrain-active) ![GitHub watchers](https://img.shields.io/github/watchers/duyplus/jetbrain-active) ![GitHub repo size](https://img.shields.io/github/repo-size/duyplus/jetbrain-active.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/duyplus/jetbrain-active) ![GitHub](https://img.shields.io/github/license/duyplus/jetbrain-active.svg?style=flat-square)![img](https://hits.dwyl.com/duyplus/jetbrain-active.svg)
 
@@ -57,8 +57,8 @@ jetagent/
 
 ```shell
 sh ./scripts/install.sh
-done. you'd better log off first!
 ```
+Done. You would better log off first!
 
 ## Windows
 Click run `IDEA.vbs`
