@@ -78,6 +78,9 @@ sh idea.sh
 ```shell
 sh idea.sh
 ```
+## Usage
+
+- [docs](./wiki/): install tutorial
 
 ## Disclaimers
 - [Disclaimers](DISCLAIMER.md)
