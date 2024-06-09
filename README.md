@@ -81,6 +81,3 @@ sh idea.sh
 ## Usage
 
 - [docs](https://github.com/duyplus/jetbrain-active/wiki) : install tutorial
-
-## Disclaimers
-- [Disclaimers](DISCLAIMER.md)
